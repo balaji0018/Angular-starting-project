@@ -6,7 +6,7 @@ export type Task = {
   dueDate:string;
 }
 export type NewTask = {
-    title:String;
+    title:string;
     summary:string;
     duedate:string;
 }
